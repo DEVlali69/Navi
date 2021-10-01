@@ -14,6 +14,7 @@
     // :: 9.0 Preloader Active code
 
     // :: 1.0 Owl Carousel Active Code
+    // console.log("JS")
     if ($.fn.owlCarousel) {
         $(".welcome_slides").owlCarousel({
             items: 1,
