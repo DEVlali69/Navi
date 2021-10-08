@@ -6,5 +6,7 @@ $(document).ready(function() {
 	});
 });
 
+console.log("For hacktober");
+
 const observer = lozad();
 observer.observe();
