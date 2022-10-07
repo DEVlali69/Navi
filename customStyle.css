@@ -9,6 +9,11 @@
 	    border: 2px solid #fb397d;
 }
 
+.htf {
+	color:purple;
+	border-radius: 20%;
+}
+
 
 .btn.preorder-btn {
     background: #6f42c1;
