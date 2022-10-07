@@ -9,6 +9,12 @@
 	    border: 2px solid #fb397d;
 }
 
+.hf{
+	color: green;
+	width:100px;
+	height:100px;
+	border-radius:100%;
+}
 
 .btn.preorder-btn {
     background: #6f42c1;
